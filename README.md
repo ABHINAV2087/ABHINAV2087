@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABHINAV2087
+- 👋 Hi, I’m Abhinav Tirole
 - 👀 I’m interested in development and designing
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects
