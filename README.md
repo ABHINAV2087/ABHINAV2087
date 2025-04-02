@@ -14,18 +14,23 @@
   [![Email](https://img.shields.io/badge/Email-tiroleabhinav%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiroleabhinav@gmail.com)
   
 </div>
-<h3 align="center">🚀 Hey there! I'm Abhinav Tirole 👋
-🎓 Integrated M.Tech student in AI & ML | Passionate about Machine Learning, MERN Stack, and Data Analytics
-💡 Building scalable apps & AI-driven solutions | Exploring tech to make a real-world impact! 🚀</h3>
+<h2 >🚀 Hey there! I'm Abhinav Tirole 👋</h2>
+<ul style="list-style: none; padding-left: 0;">
+  <li>🔮 <b>Integrated M.Tech student</b> in AI & ML</li>
+  <li>💻 <b>Passionate</b> about Machine Learning, MERN Stack, and Data Analytics</li>
+  <li>🚀 <b>Building scalable apps & AI-driven solutions</b> | Exploring tech to make a real-world impact!</li>
+</ul>
 
 
-- 👨‍💻 All of my projects are available at [www.abhinavtirole.tech](https://www.abhinavtirole.tech/)
 
 
-- 📫 reach me 📧 : [tiroleabhinav@gmail.com](mailto:tiroleabhinav@gmail.com)
+ 👨‍💻 All of my projects are available at [www.abhinavtirole.tech](https://www.abhinavtirole.tech/)
 
 
-- ⚡ Fun fact: I believe in clean code, smooth UI, and minimal bugs (hopefully 😅)
+ 📫 reach me 📧 : [tiroleabhinav@gmail.com](mailto:tiroleabhinav@gmail.com)
+
+
+⚡ Fun fact: I believe in clean code, smooth UI, and minimal bugs (hopefully 😅)
 
 ## 🙋‍♂️🌐 Find me here :
 
