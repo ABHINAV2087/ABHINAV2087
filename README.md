@@ -40,8 +40,8 @@
   <img align="center" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
 
-  <a href="https://leetcode.com/u/abhinavtirole/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shreyvarshney1"/></a>
-  <a href="https://www.geeksforgeeks.org/user/abhinavtisqrz/" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="shreyvarshney1"/></a>
+  <a href="https://leetcode.com/u/abhinavtirole/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="abhinav"/></a>
+  <a href="https://www.geeksforgeeks.org/user/abhinavtisqrz/" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt=""/></a>
 </p>
 
 ## 📊 Stats:
@@ -67,16 +67,16 @@
   </tr>
   <tr>
     <th>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2087&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Shrey's Most Used Languages"/></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2087&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Abhinav's Most Used Languages"/></p>
     </th>
     <th>
-<!--       <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shreyvarshney1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Shrey's Github Stats" /></p> -->
-      <p><img align="center" src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=abhinav2087&theme=neon-dark&hide_border=true" alt="Shrey's Streak Stat's"/></p>
+<      <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abhinav2087&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Abhinav's Github Stats" /></p> 
+      <p><img align="center" src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=abhinav2087&theme=neon-dark&hide_border=true" alt="abhinav's Streak Stat's"/></p>
     </th>
   </tr>
 </table>
 
-[![An image of @shreyvarshney1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinav2087)](https://holopin.io/@abhinav2087)
+[![An image of  Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinav2087)](https://holopin.io/@abhinav2087)
 
 ## 🛠️ Languages and Tools:
 
