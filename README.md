@@ -60,6 +60,7 @@
     </td>
     <td>
       <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/abhinavtirole?theme=light&font=DM%20Sans" /></a> 
+      <a href="https://www.geeksforgeeks.org/user/abhinavtisqrz/" target="_blank"><img  align=top flex-grow=1 src="https://gfgstatscard.vercel.app/abhinavtisqrz?theme=dark" /></a> 
     </td>
   </tr>
   <tr>
