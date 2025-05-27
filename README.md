@@ -48,14 +48,7 @@
 <table>
   <tr align="center">
     <td>
-      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="leet50" height="100" width="100" /></a>
-      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="leet200" height="100" width="100" /></a>
-      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="knight" height="100" width="100" /></a>
-      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="guardian" height="100" width="100" /></a>
-      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="guardian" height="100" width="100" /></a>
-      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="guardian" height="100" width="100" /></a>
-      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="guardian" height="100" width="100" /></a>
-      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="guardian" height="100" width="100" /></a>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhinavtirole&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
     </td>
     <td>
       <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/abhinavtirole?theme=light&font=DM%20Sans" /></a> 
