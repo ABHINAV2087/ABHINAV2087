@@ -48,11 +48,11 @@
 <table>
   <tr align="center">
     <td>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhinavtirole&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhinavtirole&theme=dark&border=border&animated=true" alt="LeetCode Badges"  width="500"/>
     </td>
     <td>
-      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/abhinavtirole?theme=light&font=DM%20Sans" /></a> 
-      <a href="https://www.geeksforgeeks.org/user/abhinavtisqrz/" target="_blank"><img  align=top flex-grow=1 src="https://gfgstatscard.vercel.app/abhinavtisqrz?theme=dark" /></a> 
+      <a href="https://leetcode.com/abhinavtirole/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/abhinavtirole?theme=light&font=DM%20Sans"  width="600"/></a> 
+      <a href="https://www.geeksforgeeks.org/user/abhinavtisqrz/" target="_blank"><img  align=top flex-grow=1 src="https://gfgstatscard.vercel.app/abhinavtisqrz?theme=dark"  width="600"/></a> 
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <th>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2087&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Abhinav's Most Used Languages"/></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav2087&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Abhinav's Most Used Languages" width="600"/></p>
     </th>
     <th>
 <      <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abhinav2087&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Abhinav's Github Stats" /></p> 
